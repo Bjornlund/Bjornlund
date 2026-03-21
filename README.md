@@ -65,6 +65,16 @@ Dungeon crawler – *2nd place at Dania Games Expo 2025* 🏆  </br>
 - Sprites & animations  
 
 ---
+
+### 💻 Other projects
+You can experience some of the projects here: [My itch games](https://itch.io/c/6386312/my-games) </br>
+
+My contributions:
+- **Mortens Way:** A-star Pathfinding
+- **Morten in the Making:** Threads
+- **Morten Survivor:** planning and implementing design patterns
+
+
 <!--
 ## 📈 Currently improving
 Unity workflow • Git • Looking into AWS
