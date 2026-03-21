@@ -1,6 +1,6 @@
 ## 🎯 Looking for
-Developer Internship – Fall 2026 (3 months)  
-Denmark (Østjylland) or remote  
+**Developer Internship – Fall 2026 (3 months)**  
+**Denmark (Østjylland) or remote**  
 
 **Check out my work:** </br>
 👶 AR project in Vancouver → [Centre for Digital Media](https://thecdm.ca/projects/ar-storytelling-prenatal-bonding-tandem-impact-collective) </br>
@@ -9,12 +9,10 @@ Denmark (Østjylland) or remote
 ---
 
 ## ✨ About
-🎮 **Game Developer & Designer (Unity / C#)** </br>
-📍 **Denmark** </br>
+🎮 **Developer & Designer (Unity / C#)** </br>
 ✏️ **Datamtiker at Dania Games, Grenå** </br>
 
 I’m a software development student with a background in multimedia design.
-
 I build **gameplay features, UI and interactive systems**, and I enjoy working where **design and development meet**.  
 I’m especially interested in creating experiences that are intuitive, engaging and meaningful.
 
@@ -26,9 +24,6 @@ C# • Unity • MonoGame
 
 **Tools**  
 Git • Visual Studio • Adobe CC  
-
-**Other**  
-AR • Localization • Basic databases • Agile/Scrum  
 
 ---
 
