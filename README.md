@@ -2,7 +2,7 @@
 Developer Internship – Fall 2026 (3 months)  
 Denmark (Østjylland) or remote  
 
-**See my work:** </br>
+**Check out my work:** </br>
 👶 AR project in Vancouver → [Centre for Digital Media](https://thecdm.ca/projects/ar-storytelling-prenatal-bonding-tandem-impact-collective) </br>
 🎮 Itch.io games → [My itch games](https://itch.io/c/6386312/my-games)  
 
