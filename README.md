@@ -9,8 +9,8 @@
 ---
 
 ## ✨ About
-🎮 **Developer & Designer (Unity / C#)** </br>
-✏️ **Datamtiker at Dania Games, Grenå** </br>
+🎮 **Software developer & Designer (Unity / C#)** </br>
+✏️ **Datamatiker student at Dania Games, Grenå** </br>
 
 I’m a software development student with a background in multimedia design.
 I build **gameplay features, UI and interactive systems**, and I enjoy working where **design and development meet**.  
