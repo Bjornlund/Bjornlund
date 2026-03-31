@@ -27,7 +27,7 @@ Git • Visual Studio • Adobe CC
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Highlights
 
 ### ⭐ AR Pregnancy App (R&D – Vancouver) 
 Unity AR app designed to create emotional connection through interactive storytelling  
@@ -44,7 +44,7 @@ Unity AR app designed to create emotional connection through interactive storyte
 
 ### 🌊 Ocean Defender 
 Game for Kattegatcentret teaching kids about ocean pollution  
-[Play Ocean Defender in your browser!](https://itch.io/queue/c/6386312/my-games?game_id=4015540&password=)  
+[PLAY](https://itch.io/queue/c/6386312/my-games?game_id=4015540&password=)  •  [Repository](https://github.com/SimonRNielsen/Ocean_Defender.git)</br>
 
 **My work:**
 - Gameplay systems (trash spawner)
@@ -56,13 +56,13 @@ Game for Kattegatcentret teaching kids about ocean pollution
 
 ### ⚔️ Mortens Komeback III - The last Goosade
 Dungeon crawler – *2nd place at Dania Games Expo 2025* 🏆  </br>
-[Download and try Mortens Komeback III](https://itch.io/queue/c/6386312/my-games?position=6)</br>
+[PLAY](https://itch.io/queue/c/6386312/my-games?position=6)  •  [Repository](https://github.com/Rlrasmussen/Mortens-Komeback-3.git)</br>
 
 **My work:**
 - Room/door system
 - UI & menus
 - Cutscenes
-- Sprites & animations  
+- Sprites & animations
 
 ---
 
