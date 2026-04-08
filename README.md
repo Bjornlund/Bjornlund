@@ -40,6 +40,8 @@ Unity AR app designed to create emotional connection through interactive storyte
 - Localization & iOS build
 - Save system
 
+*This project was developed during an experience-based learning opportunity provided by Tandem for students enrolled in the Master's of Digital Media (MDM) at the Centre for Digital Media.*
+
 ---
 
 ### 🌊 Ocean Defender 
