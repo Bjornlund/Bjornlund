@@ -1,4 +1,4 @@
-## 🎯 Looking for
+## 🎯 Looking for Internship
 **Developer Internship – Fall 2026 (3 months)**  
 **Denmark (Østjylland) or remote**  
 
