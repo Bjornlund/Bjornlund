@@ -29,7 +29,7 @@ Git • Visual Studio • SQLite • Adobe CC
 
 ## 🚀 Projects Highlights
 
-### ⭐ AR Pregnancy App (R&D – Vancouver) 
+### ⭐ AR Prenatal bonding App (R&D – Vancouver) 
 Unity AR app designed to create emotional connection through interactive storytelling  
 [Learn more about the project and collaboration here](https://thecdm.ca/projects/ar-storytelling-prenatal-bonding-tandem-impact-collective)
 
