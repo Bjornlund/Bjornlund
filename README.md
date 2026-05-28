@@ -23,7 +23,7 @@ I’m especially interested in creating experiences that are intuitive, engaging
 C# • Unity • MonoGame  
 
 **Tools**  
-Git • Visual Studio • Adobe CC  
+Git • Visual Studio • SQLite • Adobe CC  
 
 ---
 
